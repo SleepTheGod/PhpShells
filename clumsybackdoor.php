@@ -822,4 +822,4 @@ if (isset($_GET['logout'])) {
     header("Location: " . $_SERVER['PHP_SELF']);
     exit;
 }
-?>```
+?>
